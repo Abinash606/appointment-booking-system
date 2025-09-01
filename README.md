@@ -21,7 +21,7 @@ A versatile and customizable appointment booking system designed for astrologers
 ## Installation
 
 1. Clone the repository:
-
+https://github.com/Abinash606/appointment-booking-system.git
 ```php
 ```
 ```php
